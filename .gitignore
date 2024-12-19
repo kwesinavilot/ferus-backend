@@ -1,0 +1,13 @@
+/virenv
+./virenv
+./virenv/*
+
+./logs
+./logs/*
+logs/celerybeat.log
+logs/celery.log
+
+.env
+./.env
+.env.production
+./.env.production
